@@ -1,0 +1,8 @@
+{
+  "name": "[RJ] Copy of Copy of Memora: AI Dementia Companion",
+  "description": "An AI and AR-powered companion app to assist dementia patients. ",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
